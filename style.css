@@ -5,7 +5,27 @@ img {
 body {
     text-align: center;
     font-family: 'Arial';
-    background: purple;
-    color: azure;
-
+    background: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    display:flex;
+    flex-direction: row;
+    height: 100vh;
+    
 }
+
+.navigation-bar {
+    background-color: rgb(249, 175, 245);
+    padding: 1rem;
+    width: 14%;
+    height: 100%;
+}
+.main {
+    background-color: rgb(250, 109, 245);
+    padding: 1rem;
+    width: 100%;
+    height: 100%;
+}
+.Drawing-1 {
+        height: 100px;
+        width: 150px;
+    }
