@@ -1,10 +1,7 @@
-img {
-    height:200px;
-    width: 300px;
-}
+
 body {
     text-align: center;
-    font-family: 'Arial';
+    font-family: 'Comfortaa';
     background: rgb(255, 255, 255);
     color: rgb(0, 0, 0);
     display:flex;
@@ -43,4 +40,8 @@ color:black;
 .Cherry-blossoms {
     height: 250px;
     width:350px;
+}
+.Random-snake-pic {
+    Height: 100px;
+    width: 200x;
 }
